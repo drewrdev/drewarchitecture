@@ -41,4 +41,5 @@ Usamos GitHub para el control de versiones. Para conocer las versiones disponibl
 - Se añadieron las secciones de About Us y Models
 - Ambas secciones con sus respectivos estilos e imagenes
 
+## V1.0.2
 
