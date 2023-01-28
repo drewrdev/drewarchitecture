@@ -2,7 +2,7 @@
 # DrewArchitecture
 Este proyecto es una Pagina Web diseñada para permitir al usuario ver las casas que ofrece la inmobiliaria o constructora. Los usuarios pueden buscar casas a su gusto y explorarlas a través de imagenes.
 
-<!-- ver pagina web  -->
+Enlace : https://drewarchitecture.netlify.app/
 
 ## Instalacion
 
@@ -26,7 +26,7 @@ y para iniciar el proyecto
 - Git-GitHub
 
 ## Versionado
-Usamos GitHub para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas (tags) en este repositorio .
+use GitHub para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas (tags) en este repositorio .
 
 # Control de versiones
 
